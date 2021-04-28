@@ -3,7 +3,7 @@ const Calculator = {
     // Display value
     displayValue: '0',
     //These will hold the operands and operator
-    firstOperand: 1,
+    firstOperand: null,
     waitSecondOperand: false,
     operator: null
 };
